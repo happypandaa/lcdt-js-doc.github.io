@@ -1,25 +1,3 @@
-#### [react 核心代码规范及要求](#react)
-
-- [一、总体要求](#react-requirements)
-
-  - [1.方法根据生命周期排序](#react-requirements)
-  - [2.事件函数命名](#react-requirements)
-  - [3.组建验证](#react-requirements)
-  - [4～6. ...](#react-requirements)
-
-- [二、基本规范](#react-base-guide)
-
-- [三、命名规范](#react-naming-rule)
-
-- [四、组件规范](#react-component-standard)
-
-- [五、约定](#react-agreements)
-
-- [六、CSS相关](#react-css)
-
-- [七、代码校验工具 ESLint等](#react-eslint)
-
----
 
 ## <h2 id="react">react核心代码规范及要求</h2>
 
@@ -783,11 +761,25 @@ html {
 
 Float在渲染时计算量比较大，尽量减少使用。  
 
-### <h3 id="react-eslint">七、代码校验工具</h3>
+## <h2 id="react-eslint">七、代码校验工具</h2>
 
-- [ESLint](https://www.github.com/eslint/eslint)  
-- [ESLint React Plugin](https://github.com/yannickcr/eslint-plugin-react)
+## <h3 id="react-eslint">eslint</h3>
 
-  根据 ESLIST 后面给出详细的配置示例：
+- eslint 官方地址
+  [ESLint](https://www.github.com/eslint/eslint) 
+
+- eslint 的extends推荐持用 airbnb,项目前期可以先使用recommend过渡，具体设置和rules可以看 [ESLint 规则说明](https://cloud.tencent.com/developer/chapter/12618)
+
+- 推荐持用的插件
+  > - eslint
+  > - husky
+  > - prettier
+  > - eslint-plugin-prettier
+  > - ...
+
+
+
+
+
 
   /* TODO */
