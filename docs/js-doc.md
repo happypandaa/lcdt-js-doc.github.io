@@ -37,7 +37,6 @@
 - [grunt插件](#check-grunt)
 ---
 
-
 ## <h2 id="golden-rule">最佳原则</h2>
 
 坚持制定好的代码规范。
@@ -96,6 +95,7 @@ if (x < y) {
 } else {
     x += 1;
 }
+
 ```
 
 ### <h3 id="js-line-max-length">单行长度</h3>
@@ -1002,6 +1002,3 @@ if (condition) {
          }
      }
      ```
-
-### 
-
