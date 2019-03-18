@@ -9,7 +9,6 @@
 5. [CSS, SCSS文件命名](#css-naming)
 6. [HTML文件命名](#html-naming)
 
-
 #### [JavaScript](#javascript)
 
 - [缩进](#js-indentation)
@@ -36,8 +35,8 @@
 
 - [sublime3插件](#check-sublime3)
 - [grunt插件](#check-grunt)
-
 ---
+
 
 ## <h2 id="golden-rule">最佳原则</h2>
 
