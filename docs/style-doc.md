@@ -1,38 +1,4 @@
 
-#### [HTML](#html)
-
-- [语法](#html-syntax)
-- [HTML5 doctype](#html-doctype)
-- [lang属性](#html-lang)
-- [字符编码](#html-encoding)
-- [IE兼容模式](#html-ie-compatibility-mode)
-- [引入CSS, JS](#html-style-script)
-- [属性顺序](#html-attribute-order)
-- [boolean属性](#html-boolean-attributes)
-- [JS生成标签](#html-javascript)
-- [减少标签数量](#html-reducing-markup)
-- [实用高于完美](#html-practicality)
-
-#### [CSS, SCSS](#css)
-
-- [缩进](#css-indentation)
-- [分号](#css-semicolon)
-- [空格](#css-space)
-- [空行](#css-blank-line)
-- [换行](#css-new-line)
-- [注释](#css-comments)
-- [引号](#css-quote-marks)
-- [命名](#css-naming-rule)
-- [属性声明顺序](#css-declaration-order)
-- [颜色](#css-color)
-- [属性简写](#css-shorthand)
-- [媒体查询](#css-media-queries)
-- [SCSS相关](#css-scss)
-- [杂项](#css-miscellaneous)
-----
-
-
-
 ## <h2 id="html">HTML</h2>
 
 ### <h3 id="html-syntax">语法</h3>
